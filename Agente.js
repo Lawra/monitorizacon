@@ -1,5 +1,5 @@
 console.log('Iniciando módulo agente.');
-console.log('canvi github');
+
 
 var os = require('os');
 	http = require('http');
